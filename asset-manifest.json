@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anusha1421/foodProduct-using-react/static/css/main.86239beb.css",
+    "main.js": "/anusha1421/foodProduct-using-react/static/js/main.ecc4cfd1.js",
+    "static/js/453.5f400fef.chunk.js": "/anusha1421/foodProduct-using-react/static/js/453.5f400fef.chunk.js",
+    "index.html": "/anusha1421/foodProduct-using-react/index.html",
+    "main.86239beb.css.map": "/anusha1421/foodProduct-using-react/static/css/main.86239beb.css.map",
+    "main.ecc4cfd1.js.map": "/anusha1421/foodProduct-using-react/static/js/main.ecc4cfd1.js.map",
+    "453.5f400fef.chunk.js.map": "/anusha1421/foodProduct-using-react/static/js/453.5f400fef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86239beb.css",
+    "static/js/main.ecc4cfd1.js"
+  ]
+}
